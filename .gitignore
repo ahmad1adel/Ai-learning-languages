@@ -1,3 +1,8 @@
-app.txt/
-temp/
+# Ignore environment files
 .env
+
+# Ignore temp folder
+temp/
+
+# Ignore app.txt
+app.txt
